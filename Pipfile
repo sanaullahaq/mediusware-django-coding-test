@@ -9,7 +9,8 @@ django-dotenv = "*"
 mysqlclient = "*"
 django-extensions = "*"
 djangorestframework = "*"
-django-environ = "*"
+nodeenv = "*"
+matplotlib = "*"
 
 [dev-packages]
 

@@ -1,3 +1,9 @@
-from django.test import TestCase
+color = ['a', 'b', 'c']
+size = ['e', 'f', 'g']
 
-# Create your tests here.
+title = {
+    'color': color,
+    'size': size
+}
+
+print(title['color'])
